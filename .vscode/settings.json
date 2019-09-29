@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "vudemy\\Scripts\\python.exe",
+    "python.formatting.provider": "yapf"
+}
